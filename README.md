@@ -1,188 +1,173 @@
 <div align="center">
 
-# 👋 Hello, I'm **Bapikar Mandal**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F7FF,50:7C3AED,100:FF2E63&text=Bapikar%20Mandal&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20CS%20Student%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" />
 
-### 💻 Full Stack Web Developer • Computer Science Student • Open Source Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=I+build+modern+full+stack+web+applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Learning+AI%2C+Automation%2C+and+Backend+Engineering;Turning+ideas+into+clean%2C+useful+products" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Passionate+About+AI+%26+Automation;Always+Learning+Something+New+🚀" />
+<br><br>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=bapikarmandal&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/bapikarmandal?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/bapikarmandal?affiliations=OWNER&style=for-the-badge"/>
+<a href="https://github.com/bapikarmandal">
+  <img src="https://komarev.com/ghpvc/?username=bapikarmandal&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</a>
+<a href="https://github.com/bapikarmandal?tab=followers">
+  <img src="https://img.shields.io/github/followers/bapikarmandal?logo=github&style=for-the-badge&color=7C3AED&labelColor=0D1117" />
+</a>
+<a href="https://github.com/bapikarmandal?tab=repositories">
+  <img src="https://img.shields.io/github/stars/bapikarmandal?affiliations=OWNER&style=for-the-badge&color=FF2E63&labelColor=0D1117" />
+</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About Me
 
-🎓 Diploma in **Computer Science & Technology**
+```js
+const bapikar = {
+  role: "Full Stack Web Developer",
+  education: "Diploma in Computer Science & Technology",
+  focus: ["React.js", "Node.js", "Express.js", "MongoDB"],
+  exploring: ["Artificial Intelligence", "Automation", "Backend Development"],
+  goal2026: "Land a Software Developer role and build impactful open-source projects",
+  mindset: "First solve the problem, then write the code."
+};
+```
 
-💻 Passionate about building scalable web applications
+I am a Computer Science student and full stack developer who enjoys building practical web applications, learning modern backend systems, and turning ideas into clean user experiences.
 
-🌱 Currently mastering
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
-🤖 Exploring
-
-- Artificial Intelligence
-- Automation
-- Backend Development
-
-🎯 2026 Goal
-
-✔ Land a Software Developer Role
-
-✔ Build Open Source Projects
-
-✔ Contribute to the Developer Community
+- Building scalable full stack applications
+- Practicing Data Structures and Algorithms
+- Exploring AI-powered tools and automation
+- Growing through open source and real-world projects
 
 ---
 
-# ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,vite&perline=8" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&perline=8" />
 
-### Database
+### Database and Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=8" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=8" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bapikarmandal&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<a href="https://github.com/bapikarmandal/Online-Course-Material-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bapikarmandal&repo=Online-Course-Material-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2E63" />
+</a>
+
+<a href="https://github.com/bapikarmandal/passout-student-information-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bapikarmandal&repo=passout-student-information-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2E63" />
+</a>
+
+<a href="https://github.com/bapikarmandal/my-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bapikarmandal&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2E63" />
+</a>
 
 </div>
 
----
+### Online Course Material Management System
 
-# 🚀 Featured Projects
+An e-learning platform for colleges where students and faculty can upload, manage, and access study materials.
 
-## 📚 Online Course Material Management System
+**Tech Stack:** React, Node.js, Express, MongoDB
 
-📖 E-learning platform for colleges where students and faculty can upload, manage and access study materials.
+### Passout Student Information System
 
-**Tech Stack**
+A student information management portal built to organize passout student records.
 
-React • Node.js • Express • MongoDB
+**Tech Stack:** PHP, MySQL
 
-🔗 Repository
+### Personal Portfolio Website
 
-https://github.com/bapikarmandal/Online-Course-Material-Management-System
+A modern portfolio website for showcasing skills, projects, and developer experience.
 
----
-
-## 🎓 Passout Student Information System
-
-Student management portal developed using PHP & MySQL.
-
-**Tech Stack**
-
-PHP • MySQL
-
-🔗 Repository
-
-https://github.com/bapikarmandal/passout-student-information-system
+**Tech Stack:** React, JavaScript, Vite
 
 ---
 
-## 🌐 Personal Portfolio Website
-
-Modern portfolio website showcasing my skills and projects.
-
-**Tech Stack**
-
-React • JavaScript • Vite
-
-🔗 Repository
-
-https://github.com/bapikarmandal/my-portfolio
-
----
-
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bapikarmandal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bapikarmandal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2E63" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bapikarmandal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bapikarmandal&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=bapikarmandal&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF2E63&currStreakLabel=00F7FF" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bapikarmandal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF2E63&point=FFFFFF" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bapikarmandal&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bapikarmandal&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bapikarmandal&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<table>
+  <tr>
+    <td><b>Full Stack</b></td>
+    <td>Building production-style apps with React, Node.js, Express, and MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>DSA</b></td>
+    <td>Improving problem-solving skills and writing cleaner logic</td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td>Exploring intelligent tools, automation workflows, and backend integrations</td>
+  </tr>
+  <tr>
+    <td><b>Open Source</b></td>
+    <td>Learning through real projects, collaboration, and community contribution</td>
+  </tr>
+</table>
 
 ---
 
-# 📌 Current Focus
-
-🚀 Building Full Stack Applications
-
-📚 Learning Data Structures & Algorithms
-
-🤖 Exploring Artificial Intelligence
-
-🌍 Contributing to Open Source
-
----
-
-# 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 <a href="mailto:bapikarmandal76@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.instagram.com/bapikar.exe">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 <a href="https://github.com/bapikarmandal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -191,14 +176,14 @@ https://github.com/bapikarmandal/my-portfolio
 
 <div align="center">
 
-## 💡 Developer Quote
+### "First, solve the problem. Then, write the code."
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+<b>Thanks for visiting my profile.</b>
 
----
+If you like my work, consider giving my projects a star.
 
-### ⭐ Thanks for visiting my profile!
+<br>
 
-### If you like my projects, don't forget to ⭐ them.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:7C3AED,100:FF2E63" />
 
 </div>
